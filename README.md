@@ -8,9 +8,9 @@ Este projeto foi inicializado com o aplicativo [Create React](https://github.com
 
 ## Descrição do Projeto
 <p align="center">
-O sistema UpTech - É um Front-End que consome uma API do Google Books, trazendo uma lista de livro cadastrado.
+O sistema UpTech - É um Front-End que consome uma API do Google Books, trazendo uma lista de livro cadastrado na API.
 
-Os usuários poderão informar o titulo do livro, uma frase que deseja procurar.
+Os usuários poderão informar o titulo do livro, uma frase, um texto para realizar a busca da lista de Livros com as informações inserida pelo Usuário.
 
 O sistema retornará com uma lista de livros, onde o usuário consegue filtrar a quantidade que ele deseja visualizar e o index que ele deseja informar.
 </p>
